@@ -21,7 +21,7 @@ project_analysis/
 ```
 ## :blue_book: Visualização
 
-:trollface: :trollface: :trollface: [Clique aqui para acessar a tentativa de construir um artigo](indicadores.financeiros/arquivo.pdf) 
+[Clique aqui para acessar a tentativa de construir um artigo](indicadores.financeiros/arquivo.pdf) 
 
 ---
 
